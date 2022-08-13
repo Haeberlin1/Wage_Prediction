@@ -1,0 +1,8 @@
+This file presents the requirements you need to have installed to run the Indicium_DS.ipynb
+
+numpy version 1.22.4
+pandas 1.4.2
+matplotlib 3.5.2
+seaborn 0.11.1
+sklearn 1.1.1
+xgboost 1.6.1
