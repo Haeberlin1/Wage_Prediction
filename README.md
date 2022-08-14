@@ -1,4 +1,4 @@
-# Wage_Prediction
+# Desafio Cientista de Dados Idicium Lighthouse
 Jupyter Notebook explorando e criando modelo de classificação dataset com dados socieconômicos para predição de renda anual de pessoas.
 Jupyter Notebook exploring and creating classification models from a dataset with socioeconomic data for predicting people's annual income.
 
