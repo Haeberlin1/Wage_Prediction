@@ -19,7 +19,4 @@ Edit the first cell to get the following:
 path_train = '/content/wage_train.csv'#For google Colab
 path_test = '/content/wage_test.csv'#For google Colab
 
-from google.colab import drive
-drive.mount('/content/drive/',force_remount=True)
-
 Run all the cells.
